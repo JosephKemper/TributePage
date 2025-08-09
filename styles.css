@@ -9,3 +9,9 @@
     margin: 0 auto;
     padding: 20px 10px;
 }
+
+.column {
+    max-width: 300px;
+    flex-wrap: wrap;
+    padding: 10px;
+}
