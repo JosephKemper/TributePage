@@ -22,3 +22,11 @@ I created a column class set a max width, enabled flex-wrap, and added a bit of 
 ### Next Steps
 
 Polish up the data I have already added to make it look nice, add photos, the quotes about them, and likely a few other things I am missing. 
+
+## Saturday, 9 August, 2025
+
+Started to clean up the dates a bit. Did not have a lot of time to work on the project. 
+
+## Sunday, 10 August, 2025
+
+Will be taking today off to relax and worship God. 
