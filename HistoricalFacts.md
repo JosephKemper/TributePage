@@ -17,6 +17,9 @@
 15. **2018**: A first-edition copy of her 1843 notes sold for £95,000 at auction, highlighting the growing value of her historical work.
 16. **2020**: Appeared as a character in “Spyfall, Part 2” of *Doctor Who*, showcasing her cultural impact and continued relevance in popular media.
 
+Picture attribution
+By Antoine Claudet - It was shared by Paul Graham on x.com <a rel="nofollow" class="external free" href="https://x.com/paulg/status/1927655441913250041">https://x.com/paulg/status/1927655441913250041</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=166285599">Link</a>
+
 **Quote About Ada Lovelace**: “The more I read your Notes, the more surprised I am at them and regret not having earlier explored so rich a vein of the noblest metal.” – Charles Babbage, reflecting on her profound insights into the Analytical Engine.
 
 ### Facts About Charles Babbage
@@ -37,6 +40,9 @@
 14. **2002**: The same team finished a complete Difference Engine, using only materials available to Babbage, validating his engineering genius.
 15. **2011**: Babbage’s Analytical Engine plans were recognized as Turing-complete, confirming his role as the “father of the computer.”
 16. **2025**: His legacy continues to influence computer science education, with institutions like the Computer History Museum showcasing his contributions.
+
+Picture attribution
+By Unknown author - <a rel="nofollow" class="external free" href="http://images.google.com/hosted/life/l?q=Charles+Babbage&amp;prev=/search%3Fq%3DCharles%2BBabbage%26um%3D1%26hl%3Den%26sa%3DX%26biw%3D1680%26bih%3D916%26tbs%3Disz:l%26tbm%3Disch&amp;imgurl=19fc9fba4ea4a1cb">http://images.google.com/hosted/life/l?q=Charles+Babbage&amp;prev=/search%3Fq%3DCharles%2BBabbage%26um%3D1%26hl%3Den%26sa%3DX%26biw%3D1680%26bih%3D916%26tbs%3Disz:l%26tbm%3Disch&amp;imgurl=19fc9fba4ea4a1cb</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=15392737">Link</a>
 
 **Quote About Charles Babbage**: “He was probably the most original and fertile inventive genius of the 19th century.” – Alfred North Whitehead, acknowledging Babbage’s groundbreaking engineering vision.
 
